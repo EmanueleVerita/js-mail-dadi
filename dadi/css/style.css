@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+}
+
+#user{
+    padding: 200px;
+}
+
+#pc{
+    padding: 200px;
+}
