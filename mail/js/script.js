@@ -25,7 +25,7 @@ myButton.addEventListener('click', function() {
 let i ;
 
 for (let i = 0 ; i < autorizedEmail.length ; i++){
-  if (userEmail === autorizedEmail){
+  if (userEmail === autorizedEmail[i]){
 
       console.log('corretto!', userEmail);
 
